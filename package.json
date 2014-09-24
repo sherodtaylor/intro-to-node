@@ -1,9 +1,9 @@
 {
-  "name": "myfirstmodule",
+  "name": "intro-to-node",
   "version": "1.0.1",
   "description": "Intro to Node.js and the NPM package manager.",
   "bin": {
-    "myfirstmodule": "runner.js"
+    "intro-to-node": "runner.js"
   },
   "repository": {
     "type": "git",

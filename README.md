@@ -7,7 +7,6 @@
   1. Install [Node.js](http://nodejs.org/)
   2. Run `sudo npm install intro-to-node -g`
   3. Run `intro-to-node`
-  4. **.. profit!**
 
 <b><code>intro-to-node</code></b> will run through a series of Node.js workshops. These workshops will teach you about the basics of the Node REPL, the  node_modules and a modules folder structure.
 

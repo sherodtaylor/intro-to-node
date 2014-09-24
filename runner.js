@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 var adventure = require('adventure');
-var shop = adventure('My First Module');
+var shop = adventure('Intro To Node');
 var fs = require('fs');
 var path = require('path');
 

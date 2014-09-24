@@ -21,4 +21,9 @@ REPL is useful for debugging and playing around with javascript.
   4
   5
 
+To Exit click CTRL-C twice
+  > 
+  (^C again to quit)
+  sherodtaylor:~ $ 
+
 Use `$ADVENTURE_COMMAND verify to skip to the next problem 

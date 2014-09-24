@@ -1,6 +1,4 @@
-Here is the reference solution, if you're curious:
+REPL is great for testing code and debugging.
 
-  module.exports = function (a, b) {
-    return a * b
-  }
+Move on to the next problem.  
 

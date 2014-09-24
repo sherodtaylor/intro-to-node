@@ -5,6 +5,10 @@
   "bin": {
     "myfirstmodule": "runner.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sherodtaylor/my-first-module.git"
+  },
   "author": "Sherod Taylor <sherodtaylor@gmail.com>",
   "license": "BSD",
   "keywords": [

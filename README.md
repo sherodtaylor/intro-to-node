@@ -2,7 +2,7 @@
 
 **An intro to Node.js via a set of self-guided workshops.**
 
-[![NPM](https://nodei.co/npm/intro-to-node.png?downloads=true&&downloadRank=true&stars=true)](https://nodei.co/npm/intro-to-node/) [![NPM](https://nodei.co/npm-dl/intro-to-node.png?months=3&height=3)](https://nodei.co/npm/intro-to-node/)
+[![NPM](https://nodei.co/npm/intro-to-node.png?downloads=true&&downloadRank=true&stars=true&months=3&height=3)](https://nodei.co/npm/intro-to-node/) 
 
   1. Install [Node.js](http://nodejs.org/)
   2. Run `sudo npm install intro-to-node -g`

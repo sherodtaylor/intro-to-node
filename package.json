@@ -1,0 +1,20 @@
+{
+  "name": "my-first-module",
+  "version": "1.0.0",
+  "description": "Intro to Node.js and the NPM package manager.",
+  "bin": {
+    "my-first-module": "runner.js"
+  },
+  "author": "Sherod Taylor <sherodtaylor@gmail.com>",
+  "license": "BSD",
+  "keywords": [
+    "nodeschool",
+    "my-first-module",
+    "learning",
+    "education"
+  ],
+  "dependencies": {
+    "adventure": "^2.2.0",
+    "adventure-verify": "^2.1.1"
+  }
+}

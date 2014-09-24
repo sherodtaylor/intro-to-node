@@ -10,6 +10,9 @@
 
 <b><code>intro-to-node</code></b> will run through a series of Node.js workshops. These workshops will teach you about the basics of the Node REPL, the  node_modules and a modules folder structure.
 
+Once you have finished <b><code>intro-to-node</code></b>, graduate to <b><code>[learnyounode](https://github.com/rvagg/learnyounode)</code></b> to learn Node.js I/O, TCP, HTTP, and events.
+
+
 ### Contributors
 
 <b><code>intro-to-node</code></b> is proudly brought to you by the following hackers:

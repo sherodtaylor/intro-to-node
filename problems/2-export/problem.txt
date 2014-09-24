@@ -1,0 +1,29 @@
+One of the best ways to learn Node.js is to use Node REPL (“Read-Evaluate-Print-Loop”)
+
+Node REPL is an interactive Node.js programming environment.
+  
+1) Start Node Repl in your terminal
+
+  sherodtaylor:~ $ node 
+
+
+REPL is useful for debugging and playing around with javascript.
+
+  sherodtaylor:~ $ node 
+  > 2 * 2
+  4
+  > for (var i = 0, l = 5; i < l; i++) {
+  ....  console.log(i);
+  .... }
+  1
+  2
+  3
+  4
+  5
+
+To exit click CTRL-C twice.
+  > 
+  (^C again to quit)
+  sherodtaylor:~ $ 
+
+Use `$ADVENTURE_COMMAND verify to skip to the next problem 

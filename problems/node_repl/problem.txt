@@ -21,7 +21,7 @@ REPL is useful for debugging and playing around with javascript.
   4
   5
 
-To Exit click CTRL-C twice
+To exit click CTRL-C twice.
   > 
   (^C again to quit)
   sherodtaylor:~ $ 

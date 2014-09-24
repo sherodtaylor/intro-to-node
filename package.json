@@ -1,6 +1,6 @@
 {
   "name": "intro-to-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Intro to Node.js and the NPM package manager.",
   "bin": {
     "intro-to-node": "runner.js"
